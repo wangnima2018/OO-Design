@@ -1,3 +1,6 @@
+
+<p>主要用到的数据结构： list，stack<p>
+
 ```python
 import random
 class Card(object):
